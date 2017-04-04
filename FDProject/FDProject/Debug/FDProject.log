@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\projects\windows\c++\vc\fdproject\fdproject\fdproject\main.cpp(30): warning C4005: 'NT_SUCCESS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winternl.h(803): note: see previous definition of 'NT_SUCCESS'
+  FDProject.vcxproj -> F:\Projects\windows\C++\VC\FDProject\FDProject\Debug\FDProject.exe
+  FDProject.vcxproj -> F:\Projects\windows\C++\VC\FDProject\FDProject\Debug\FDProject.pdb (Full PDB)
